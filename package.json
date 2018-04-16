@@ -1,0 +1,16 @@
+{
+  "name": "xyparamvalidator",
+  "version": "1.0.0",
+  "description": "validate parameters of request for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "validate",
+    "parameter"
+  ],
+  "author": "Gao Xinyuan",
+  "license": "ISC",
+  "git": "https://github.com/bbloveccgxy/XYParamValidator.git"
+}
